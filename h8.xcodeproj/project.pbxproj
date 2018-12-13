@@ -13,6 +13,7 @@
 		3FC16EB221C25ACE002D9A5D /* h8.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3FC16EB021C25ACE002D9A5D /* h8.xcdatamodeld */; };
 		3FC16EB421C25ACF002D9A5D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FC16EB321C25ACF002D9A5D /* Assets.xcassets */; };
 		3FC16EB721C25ACF002D9A5D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FC16EB521C25ACF002D9A5D /* LaunchScreen.storyboard */; };
+		3FC16EBF21C25EA5002D9A5D /* StudentTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC16EBE21C25EA5002D9A5D /* StudentTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3FC16EB321C25ACF002D9A5D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3FC16EB621C25ACF002D9A5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3FC16EB821C25ACF002D9A5D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3FC16EBE21C25EA5002D9A5D /* StudentTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				3FC16EA921C25ACE002D9A5D /* AppDelegate.swift */,
 				3FC16EAB21C25ACE002D9A5D /* ViewController.swift */,
 				3FC16EAD21C25ACE002D9A5D /* Main.storyboard */,
+				3FC16EBE21C25EA5002D9A5D /* StudentTableViewCell.swift */,
 				3FC16EB321C25ACF002D9A5D /* Assets.xcassets */,
 				3FC16EB521C25ACF002D9A5D /* LaunchScreen.storyboard */,
 				3FC16EB821C25ACF002D9A5D /* Info.plist */,
@@ -141,6 +144,7 @@
 				3FC16EAC21C25ACE002D9A5D /* ViewController.swift in Sources */,
 				3FC16EAA21C25ACE002D9A5D /* AppDelegate.swift in Sources */,
 				3FC16EB221C25ACE002D9A5D /* h8.xcdatamodeld in Sources */,
+				3FC16EBF21C25EA5002D9A5D /* StudentTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
